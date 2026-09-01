@@ -175,18 +175,10 @@ framingham-heart-disease-prediction/
 │
 ├── README.md
 ├── requirements.txt
-│
-├── notebooks/
-│   └── Framingham_Heart_Disease_Prediction.ipynb
-│
-├── data/
-│   └── framingham.csv
-│
-└── images/
-    ├── confusion_matrix.png
-    ├── roc_curve.png
-    ├── precision_recall_curve.png
-    └── threshold_analysis.png
+├── Framingham_Heart_Disease_Prediction.ipynb
+├── framingham.csv
+│   
+
 ```
 
 ## Disclaimer
